@@ -1,5 +1,5 @@
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lernajs.io/)
-[![](https://img.shields.io/npm/v/@ckb/sdk-ts-config.svg)](https://www.npmjs.com/package/@ckb/sdk-ts-config)
+[![](https://img.shields.io/npm/v/@cryptape/sdk-ts-config.svg)](https://www.npmjs.com/package/@cryptape/sdk-ts-config)
 [![](https://img.shields.io/github/license/Keith-CY/cryptape-js-config.svg)](https://github.com/Keith-CY/cryptape-js-config.git)
 
 # Overview

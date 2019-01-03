@@ -1,5 +1,5 @@
 {
-  "name": "@ckb/sdk-ts-config",
+  "name": "@cryptape/sdk-ts-config",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Keith <keithwhisper@gmail.com>",
@@ -8,5 +8,6 @@
   "publishConfig": {
     "registry": "http://registry.npmjs.org/",
     "access": "public"
-  }
+  },
+  "gitHead": "ac58b97b9ec685c114cc853dbc4c747d16a848e5"
 }
