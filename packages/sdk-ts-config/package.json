@@ -1,0 +1,12 @@
+{
+  "name": "@ckb/sdk-ts-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Keith <keithwhisper@gmail.com>",
+  "license": "ISC",
+  "main": "tsconfig.json",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/",
+    "access": "public"
+  }
+}
